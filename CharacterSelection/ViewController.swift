@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     @IBOutlet weak var imageViewC: UIImageView!
+    var test = 7
     
     override func viewDidLoad() {
         super.viewDidLoad()
